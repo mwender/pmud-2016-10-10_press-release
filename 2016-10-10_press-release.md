@@ -1,4 +1,4 @@
-In the fall of 2012, driven from the overwhelming feeling that there needed to be a *simple* way to donate large items like couches and dinning room suites, the PickUpMyDonation.com idea was born. The PickUpMyDonation.com team built a cloud-based platform where donors can use a computer, tablet, or smart phone to get their pick up request to a participating non-profit in less than two minutes. 
+In the fall of 2012, driven from the overwhelming need for a *simple* way to donate large items like couches and dinning room suites, the PickUpMyDonation.com idea was born. The PickUpMyDonation.com team built a cloud-based platform where donors can use a computer, tablet, or smart phone to get their pick up request to a participating non-profit in less than two minutes. 
 
 In an industry that has always required donors to call in, leave a message, and wait for a return call, the PickUpMyDonation.com platform is the perfect solution. The website drives donation requests to participating non-profits via PickUpMyDonation.com's own advertising efforts, and it also gives any non-profit the power of a web-based donation scheduling solution.
 
